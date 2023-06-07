@@ -1,0 +1,2 @@
+class IndiceException(Exception):
+    pass
